@@ -1,4 +1,4 @@
-# compression
+# compression project in c
 there are different compression techniques for different type of data.
 compression implemented in this project is is for  text files.
 It is based on existing compression algorithm.
