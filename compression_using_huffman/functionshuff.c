@@ -1,6 +1,6 @@
 #include "functionshuff.h"
 
-
+//declare the array for storing the values
 char codearr[256][30];
 void encode(int fd1,int fd2){
 	//now declare character array to store differnt characters
@@ -617,32 +617,4 @@ unsigned char ascii_from_string(char* str){
 	return c;
 	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//end of file free to raise any issues
